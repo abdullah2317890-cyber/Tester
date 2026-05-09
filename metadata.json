@@ -1,0 +1,6 @@
+{
+  "name": "Tester",
+  "description": "An online MCQs exam system featuring random question generation, timed sessions, and subjects including Islamic Studies and Computer Science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

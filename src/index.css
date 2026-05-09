@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-urdu: "Noto Nastaliq Urdu", serif;
+}
+
+.font-urdu {
+  font-family: var(--font-urdu);
+  line-height: 2;
+}
+
+.rtl_list {
+  direction: rtl;
+}
